@@ -1,2 +1,4 @@
-# Web-Automation
-Automated a Google form that automatically sign in and fill and submit the form.
+# Web-Automation using Selenium
+Used:
+   Selenium with Python,
+Automated a Google form that automatically sign in, fill and submit the form.
